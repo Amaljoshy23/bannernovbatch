@@ -1,0 +1,8 @@
+.banner{
+    position: relative;
+    background-image: url(https://www.wildnatureimages.com/images/640/070620-014-The-Tetons.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+    color: white;
+}
